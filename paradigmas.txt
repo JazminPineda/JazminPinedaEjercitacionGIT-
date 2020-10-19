@@ -1,5 +1,5 @@
-Principales Paradigmas: 
-- Programaci髇 Estructurada
-- Programaci髇 Orientada a Objetos
-- Programaci髇 Funcional
-- Programaci髇 Reactiva
+Principales Paradigmas:
+- Programaci贸n Estructurada: es la mas facil
+- Programaci贸n Orientada a Objetos: es la mas usada
+- Programaci贸n Funcional: gano mucho terreno
+- Programaci贸n Reactiva: viene siendo auge
